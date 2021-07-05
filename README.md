@@ -1,2 +1,19 @@
-# Covid-Tracker
-This is simple project, I built based on Traversy but I used VueX and Vuejs2 instead. This project is to be familiar with tailwind css and using Vuejs again after along time trying to learn React and Laravel
+# covid-tracker
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
